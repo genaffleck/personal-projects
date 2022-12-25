@@ -49,10 +49,10 @@ hr {
   width: 800px;
   max-width: 800px;
   margin: auto;
-  background-color:  #ffffcc;
   padding: 10px;
   border-radius: 10px 10px 0px 0px;
-  box-shadow: 5px 5px 2px 0 rgba(1, 1, 24, 1)
+  box-shadow: 5px 5px 2px 0 rgba(1, 1, 24, 1);
+  background: linear-gradient(-10deg,#d9edf7 35%,rgba(237,202,216,0) 75%,#ffd7e0),radial-gradient(circle,#ffcae1 0,#daeafc 100%);
 }
 
 .footer {
