@@ -1,0 +1,82 @@
+body {
+  padding-top: 25px;
+  /* this works */
+  /* background-image: url('sauyo_logo.jpg'); */
+  /* background-size: cover; */
+}
+h1, .condition {
+  text-align: center;;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -10px;
+  width: 70px;
+  height: 70px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: serif, sans-serif;
+  color: rgb(3, 5, 135);
+}
+
+a {
+  color: black;
+}
+a:hover {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+
+.condition {
+  font-size: 24px;
+}
+
+hr {
+  width: 700px;
+  height: 0.1px;
+  background-color: black;
+  border-color: black;
+  margin-top: -10px;
+}
+
+.container {
+  width: 800px;
+  max-width: 800px;
+  margin: auto;
+  background-color:  #ffffcc;
+  padding: 10px;
+  border-radius: 10px 10px 0px 0px;
+  box-shadow: 5px 5px 2px 0 rgba(1, 1, 24, 1)
+}
+
+.footer {
+  width: 800px;
+  max-width: 800px;
+  margin: auto;
+  background-color: rgba(236, 240, 241, 1);
+  padding: 10px;
+  border-radius: 0px 0px 10px 10px;
+  box-shadow: 5px 5px 2px 0 rgba(1, 1, 24, 1)
+}
+
+.author {
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.rule {
+  margin: auto;
+  width: 300px;
+}
+
+.law {
+  margin: 20px;
+  font-size: 24px;
+}
