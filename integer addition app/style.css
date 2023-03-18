@@ -5,7 +5,7 @@ body {
   height: 100vh;
   align-items: center;
   text-align: center;
-  background-color: blueviolet;
+  background-color: rgb(28, 28, 135);
   font-family: cursive;
 }
 
@@ -24,7 +24,7 @@ body {
   font-size: 30px;
   text-align: center;
   padding: 10px;
-  border: solid 4px green;
+  border: solid 4px rgb(39, 46, 39);
   color: green;
 }
 
@@ -34,7 +34,7 @@ body {
 }
 
 .btn {
-  background-color: orangered;
+  background-color: rgb(108, 10, 168);
   color: white;
   border: none;
   display: block;
